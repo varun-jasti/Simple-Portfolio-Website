@@ -56,8 +56,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Contact
 
 Feel free to reach out if you have any questions or need further assistance:
-•	Email: varunkumarjasti@gmail.com
-•	LinkedIn : https://www.linkedin.com/in/viswanadh-varun-kumar-jasti/
+
+# Email: varunkumarjasti@gmail.com
+# LinkedIn : https://www.linkedin.com/in/viswanadh-varun-kumar-jasti/
 ________________________________________
 Thank you for checking out my Simple Portfolio Website! I hope it helps you create a stunning 
 
