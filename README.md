@@ -55,9 +55,9 @@ Contributions are welcome! If you have any ideas for improvements or find any bu
 This project is licensed under the MIT License - see the LICENSE file for details.
 Contact
 
-# Feel free to reach out if you have any questions or need further assistance:
+Feel free to reach out if you have any questions or need further assistance:
 •	Email: varunkumarjasti@gmail.com
-•	LinkedIn
+•	LinkedIn : https://www.linkedin.com/in/viswanadh-varun-kumar-jasti/
 ________________________________________
 Thank you for checking out my Simple Portfolio Website! I hope it helps you create a stunning 
 
